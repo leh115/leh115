@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @leh115
-- 👀 I’m interested in applying Machine Learning to physical systems
-- 🌱 I’m currently studying a Masters of Physics at Heriot-Watt University 
-- 📫 My email is leh8 at hw dot ac dot uk
+- 👀 I’m interested in applying Machine Learning to physical systems, primarily photonics based.
+- 🌱 I have a 1<sup>st</sup> Class (Hons.) Masters of Physics from Heriot-Watt University 
